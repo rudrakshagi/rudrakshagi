@@ -1,13 +1,20 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:0d0221,60:1a0533,100:2d1b69&height=250&section=header&text=RUDRAKSH%20AI&fontSize=80&fontColor=ffffff&fontAlignY=45&desc=Build%20Smart.%20Stay%20Secure.%20Scale%20Fast.&descAlignY=65&descSize=22&animation=twinkling&stroke=7B2FBE&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:0d0221,60:1a0533,100:2d1b69&height=260&section=header&text=RUDRAKSH%20AI&fontSize=80&fontColor=ffffff&fontAlignY=42&desc=Intelligence%20%C2%B7%20Power%20%C2%B7%20Protection&descAlignY=60&descSize=22&animation=twinkling&stroke=7B2FBE&strokeWidth=2" width="100%"/>
+
+<br/>
+
+<!-- SANSKRIT SHLOK -->
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+Devanagari&weight=700&size=24&duration=99999&pause=99999&color=C4B5FD&center=true&vCenter=true&width=500&lines=%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE+%E0%A4%85%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BF+%E0%A4%B8%E0%A4%82%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A3%E0%A4%AE%E0%A5%8D" alt="Sanskrit Shlok"/>
+</p>
 
 <br/>
 
 <!-- TYPING SVG ANIMATION -->
 <a href="https://rudrakshai.in">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&width=600&lines=AI+%C3%97+Cybersecurity+%C3%97+Automation;Intelligent+Systems+for+the+Future;Build+Smart.+Stay+Secure.+Scale+Fast.;Powered+by+Innovation+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&width=600&lines=AI+%C3%97+Cybersecurity+%C3%97+Automation;Intelligent+Systems+for+the+Future;Intelligence+%C2%B7+Power+%C2%B7+Protection;Powered+by+Innovation+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/><br/>

@@ -7,7 +7,7 @@
 
 <!-- SANSKRIT SHLOK -->
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+Devanagari&weight=700&size=24&duration=99999&pause=99999&color=C4B5FD&center=true&vCenter=true&width=500&lines=%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE+%E0%A4%85%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BF+%E0%A4%B8%E0%A4%82%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A3%E0%A4%AE%E0%A5%8D" alt="Sanskrit Shlok"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+Devanagari&weight=700&size=24&duration=2500&pause=1500&color=C4B5FD&center=true&vCenter=true&width=500&lines=%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE+%E0%A4%85%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BF+%E0%A4%B8%E0%A4%82%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A3%E0%A4%AE%E0%A5%8D" alt="Sanskrit Shlok"/>
 </p>
 
 <br/>
@@ -152,7 +152,6 @@ class RudrakshAI:
 
 ### 🤖 AI & Integrations
 <p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/LLM_APIs-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST_APIs-FF6B35?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>

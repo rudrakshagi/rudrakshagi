@@ -1,5 +1,14 @@
 <div align="center">
 
+<!-- NVIDIA MEMBERSHIP BADGE -->
+<div class="nvidia-inception-badge-wrapper">
+  <img src="https://iprsoftwaremedia.com/219/files/202512/692f50633d6332b6efbbc605_nvidia-logo-vert-wht/nvidia-logo-vert-wht_thmb.png" alt="NVIDIA Inception Program Logo" class="nvidia-logo-img">
+  <div class="nvidia-text-content">
+    <span class="nvidia-title">NVIDIA Inception Program Member</span>
+    <span class="nvidia-subtitle">Recognized by NVIDIA's global startup ecosystem.</span>
+  </div>
+</div>
+
 <!-- ANIMATED HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:0d0221,60:1a0533,100:2d1b69&height=260&section=header&text=RUDRAKSH%20AI&fontSize=80&fontColor=ffffff&fontAlignY=42&desc=Intelligence%20%C2%B7%20Power%20%C2%B7%20Protection&descAlignY=60&descSize=22&animation=twinkling&stroke=7B2FBE&strokeWidth=2" width="100%"/>
 
@@ -39,14 +48,6 @@
   <img src="https://img.shields.io/badge/Open_To-Collaboration-A855F7?style=flat-square"/>
 </p>
 
-</div>
-
-<div class="nvidia-inception-badge-wrapper">
-  <img src="assets/images/nvidia.png" alt="NVIDIA Inception Program Logo" class="nvidia-logo-img">
-  <div class="nvidia-text-content">
-    <span class="nvidia-title">NVIDIA Inception Program Member</span>
-    <span class="nvidia-subtitle">Recognized by NVIDIA's global startup ecosystem.</span>
-  </div>
 </div>
 
 ---

@@ -4,15 +4,6 @@
 
 <br/>
 
-<!-- NVIDIA MEMBERSHIP BADGE -->
-<p align="center">
-  <img src="https://img.shields.io/badge/NVIDIA_Inception%20Program%20Member-7CB06C?style=for-the-badge&logo=nvidia&logoColor=white">
-  <br/>
-  <sub>Recognized by NVIDIA's global startup ecosystem.</sub>
-</p>
-
-<br/>
-
 <!-- SANSKRIT SHLOK -->
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+Devanagari&weight=700&size=24&duration=2500&pause=1500&color=C4B5FD&center=true&vCenter=true&width=500&lines=%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE+%E0%A4%85%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BF+%E0%A4%B8%E0%A4%82%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A3%E0%A4%AE%E0%A5%8D" alt="Sanskrit Shlok"/>
@@ -34,6 +25,15 @@
   <img src="https://img.shields.io/badge/🔐_Cyber-Security_Focused-16a34a?style=for-the-badge&labelColor=0D0D0D"/>
   &nbsp;
   <img src="https://img.shields.io/badge/⚙️_Full-Automation_Ready-0EA5E9?style=for-the-badge&labelColor=0D0D0D"/>
+</p>
+
+<br/>
+
+<!-- NVIDIA MEMBERSHIP BADGE -->
+<p align="center">
+  <img src="https://img.shields.io/badge/NVIDIA_Inception%20Program%20Member-7CB06C?style=for-the-badge&logo=nvidia&logoColor=white">
+  <br/>
+  <sub>Recognized by NVIDIA's global startup ecosystem.</sub>
 </p>
 
 <br/>

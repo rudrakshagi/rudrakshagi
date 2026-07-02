@@ -6,7 +6,6 @@
 
 <!-- NVIDIA MEMBERSHIP BADGE -->
 <p align="center">
-  ![NVIDIA Inception Program Member]
   <img src="https://img.shields.io/badge/NVIDIA_Inception%20Program%20Member-7CB06C?style=for-the-badge&logo=nvidia&logoColor=white">
   <br/>
   <sub>Recognized by NVIDIA's global startup ecosystem.</sub>

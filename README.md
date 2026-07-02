@@ -54,10 +54,18 @@ class RudrakshAI:
     focus      = ["AI", "Cybersecurity", "Automation", "Web Apps"]
     stack      = ["Python", "JavaScript", "Flask",
                   "Django", "Node.js", "Linux", "LLMs"]
-    collab     = "Cyber Squad Academy"
-    mentor     = "Aditya Kumar Mishra", "Piyush Kumar", "Suryansh Mishra"
+    mentors     = "Aditya Kumar Mishra", "Piyush Kumar", "Suryansh Mishra"
     website    = "https://rudrakshai.in"
     status     = "🟢 Actively Building"
+    products = "Trinetra AI", "Tricraper", "Artha AI"
+    
+    <div class="nvidia-inception-badge-wrapper">
+      <img src="assets/images/nvidia.png" alt="NVIDIA Inception Program Logo" class="nvidia-logo-img">
+      <div class="nvidia-text-content">
+        <span class="nvidia-title">NVIDIA Inception Program Member</span>
+        <span class="nvidia-subtitle">Recognized by NVIDIA's global startup ecosystem.</span>
+      </div>
+    </div>
 
     def vision(self):
         return (

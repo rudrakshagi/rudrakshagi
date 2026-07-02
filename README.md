@@ -55,7 +55,7 @@ class RudrakshAI:
     stack      = ["Python", "JavaScript", "Flask",
                   "Django", "Node.js", "Linux", "LLMs"]
     collab     = "Cyber Squad Academy"
-    mentor     = "Aditya Kumar Mishra"
+    mentor     = "Aditya Kumar Mishra", "Piyush Kumar", "Suryansh Mishra"
     website    = "https://rudrakshai.in"
     status     = "🟢 Actively Building"
 

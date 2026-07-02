@@ -45,6 +45,26 @@
 <br/>
 
 <!-- NVIDIA MEMBERSHIP BADGE -->
+
+<style>
+  element.style {
+    margin-top: 35px;
+    display: inline-block;
+    max-width: 100%;
+  }
+  @media (min-width: 768px) and (max-width: 1199px) {
+      .nvidia-inception-badge {
+          display: flex !important;
+          justify-content: center;
+          margin-top: 25px;
+      }
+  }
+  @media (min-width: 768px) and (max-width: 1199px) {
+      
+  .nvidia-inception-badge {
+  }
+</style>
+
 <div class="nvidia-inception-badge" style="margin-top: 35px; display: inline-block; max-width: 100%;">
   <div class="nvidia-inception-badge-wrapper">
     <img src="https://rudrakshai.in/assets/images/nvidia.png" alt="NVIDIA Inception Program Logo" class="nvidia-logo-img">

@@ -45,12 +45,14 @@
 <br/>
 
 <!-- NVIDIA MEMBERSHIP BADGE -->
-<p align="center">
-  <a href="https://rudrakshai.in" target="_blank" rel="noopener noreferrer">
-    <img src="https://rudrakshai.in/assets/images/nvidia.png" alt="NVIDIA Inception Program Member" width="320" />
+<p align="center" style="margin-top: 35px;">
+  <a href="https://rudrakshai.in" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; gap: 12px; background: #E5F7D5; color: #0F3B09; border-radius: 18px; padding: 14px 20px; text-decoration: none; box-shadow: 0 8px 18px rgba(16, 68, 10, 0.12); max-width: 600px;">
+    <img src="https://rudrakshai.in/assets/images/nvidia.png" alt="NVIDIA Inception" width="48" height="48" style="border-radius: 12px; background: white; padding: 8px;" />
+    <span style="display: inline-flex; flex-direction: column; align-items: flex-start; gap: 2px;">
+      <strong style="font-size: 1rem; color: #0F3B09;">NVIDIA Inception Program Member</strong>
+      <span style="font-size: 0.92rem; color: #2F4F25;">Recognized by NVIDIA's global startup ecosystem.</span>
+    </span>
   </a>
-  <br/>
-  <strong>NVIDIA Inception Program Member</strong> — Recognized by NVIDIA's global startup ecosystem.
 </p>
 
 <br/>

@@ -1,11 +1,14 @@
 <div align="center">
 
 <!-- NVIDIA MEMBERSHIP BADGE -->
-<div class="nvidia-inception-badge-wrapper" style="background: rgba(118, 185, 0, 0.08); border: 1px solid rgba(118, 185, 0, 0.2); padding: 12px 20px; border-radius: 12px; display: inline-flex; align-items: center; gap: 15px; transition: all 0.3s ease; cursor: default; max-width: 100%;">
-  <img src="https://rudrakshai.in/assets/images/nvidia.png" alt="NVIDIA Inception Program Logo" class="nvidia-logo-img">
-  <div class="nvidia-text-content">
-    <span class="nvidia-title">NVIDIA Inception Program Member</span>
-    <span class="nvidia-subtitle">Recognized by NVIDIA's global startup ecosystem.</span>
+
+<div class="nvidia-inception-badge" style="margin-top: 35px; display: inline-block; max-width: 100%;">
+  <div class="nvidia-inception-badge-wrapper" style="background: rgba(118, 185, 0, 0.08); border: 1px solid rgba(118, 185, 0, 0.2); padding: 12px 20px; border-radius: 12px; display: inline-flex; align-items: center; gap: 15px; transition: all 0.3s ease; cursor: default; max-width: 100%;">
+    <img src="https://rudrakshai.in/assets/images/nvidia.png" alt="NVIDIA Inception Program Logo" class="nvidia-logo-img">
+    <div class="nvidia-text-content">
+      <span class="nvidia-title">NVIDIA Inception Program Member</span>
+      <span class="nvidia-subtitle">Recognized by NVIDIA's global startup ecosystem.</span>
+    </div>
   </div>
 </div>
 

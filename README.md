@@ -45,35 +45,13 @@
 <br/>
 
 <!-- NVIDIA MEMBERSHIP BADGE -->
-
-<style>
-  element.style {
-    margin-top: 35px;
-    display: inline-block;
-    max-width: 100%;
-  }
-  @media (min-width: 768px) and (max-width: 1199px) {
-      .nvidia-inception-badge {
-          display: flex !important;
-          justify-content: center;
-          margin-top: 25px;
-      }
-  }
-  @media (min-width: 768px) and (max-width: 1199px) {
-      
-  .nvidia-inception-badge {
-  }
-</style>
-
-<div class="nvidia-inception-badge" style="margin-top: 35px; display: inline-block; max-width: 100%;">
-  <div class="nvidia-inception-badge-wrapper">
-    <img src="https://rudrakshai.in/assets/images/nvidia.png" alt="NVIDIA Inception Program Logo" class="nvidia-logo-img">
-    <div class="nvidia-text-content">
-      <span class="nvidia-title">NVIDIA Inception Program Member</span>
-      <span class="nvidia-subtitle">Recognized by NVIDIA's global startup ecosystem.</span>
-    </div>
-  </div>
-</div>
+<p align="center">
+  <a href="https://rudrakshai.in" target="_blank" rel="noopener noreferrer">
+    <img src="https://rudrakshai.in/assets/images/nvidia.png" alt="NVIDIA Inception Program Member" width="320" />
+  </a>
+  <br/>
+  <strong>NVIDIA Inception Program Member</strong> — Recognized by NVIDIA's global startup ecosystem.
+</p>
 
 <br/>
 

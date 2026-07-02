@@ -4,6 +4,19 @@
 
 <br/>
 
+<!-- NVIDIA MEMBERSHIP BADGE -->
+<p align="center" style="margin-top: 35px;">
+  <a href="https://rudrakshai.in" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; gap: 12px; background: #E5F7D5; color: #0F3B09; border-radius: 18px; padding: 14px 20px; text-decoration: none; box-shadow: 0 8px 18px rgba(16, 68, 10, 0.12); max-width: 600px;">
+    <img src="https://rudrakshai.in/assets/images/nvidia.png" alt="NVIDIA Inception" width="48" height="48" style="border-radius: 12px; background: white; padding: 8px;" />
+    <span style="display: inline-flex; flex-direction: column; align-items: flex-start; gap: 2px;">
+      <strong style="font-size: 1rem; color: #0F3B09;">NVIDIA Inception Program Member</strong>
+      <span style="font-size: 0.92rem; color: #2F4F25;">Recognized by NVIDIA's global startup ecosystem.</span>
+    </span>
+  </a>
+</p>
+
+<br/>
+
 <!-- SANSKRIT SHLOK -->
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+Devanagari&weight=700&size=24&duration=2500&pause=1500&color=C4B5FD&center=true&vCenter=true&width=500&lines=%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE+%E0%A4%85%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BF+%E0%A4%B8%E0%A4%82%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A3%E0%A4%AE%E0%A5%8D" alt="Sanskrit Shlok"/>
@@ -41,19 +54,6 @@
 </div>
 
 ---
-
-<br/>
-
-<!-- NVIDIA MEMBERSHIP BADGE -->
-<p align="center" style="margin-top: 35px;">
-  <a href="https://rudrakshai.in" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; gap: 12px; background: #E5F7D5; color: #0F3B09; border-radius: 18px; padding: 14px 20px; text-decoration: none; box-shadow: 0 8px 18px rgba(16, 68, 10, 0.12); max-width: 600px;">
-    <img src="https://rudrakshai.in/assets/images/nvidia.png" alt="NVIDIA Inception" width="48" height="48" style="border-radius: 12px; background: white; padding: 8px;" />
-    <span style="display: inline-flex; flex-direction: column; align-items: flex-start; gap: 2px;">
-      <strong style="font-size: 1rem; color: #0F3B09;">NVIDIA Inception Program Member</strong>
-      <span style="font-size: 0.92rem; color: #2F4F25;">Recognized by NVIDIA's global startup ecosystem.</span>
-    </span>
-  </a>
-</p>
 
 <br/>
 

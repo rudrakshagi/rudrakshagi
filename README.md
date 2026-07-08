@@ -157,6 +157,10 @@ An autonomous security layer that thinks like a red team and defends like a SOC.
 
 <sub>Vertical: Cybersecurity</sub>
 
+<br/>
+
+<img src="https://img.shields.io/badge/🚀_Beta_Release-August_2026-16A34A?style=for-the-badge&labelColor=0D0D0D"/>
+
 </td>
 <td width="33%" valign="top">
 
@@ -172,6 +176,10 @@ Turns raw enterprise data into decisions, not just dashboards.
 
 <sub>Vertical: Enterprise BI</sub>
 
+<br/>
+
+<img src="https://img.shields.io/badge/🛠️_Under-Development-F59E0B?style=for-the-badge&labelColor=0D0D0D"/>
+
 </td>
 <td width="33%" valign="top">
 
@@ -186,6 +194,10 @@ An organization's collective knowledge, made reasoned and searchable.
 - AI Workspace
 
 <sub>Vertical: Knowledge Systems</sub>
+
+<br/>
+
+<img src="https://img.shields.io/badge/🛠️_Under-Development-F59E0B?style=for-the-badge&labelColor=0D0D0D"/>
 
 </td>
 </tr>
